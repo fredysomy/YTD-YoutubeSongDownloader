@@ -1,4 +1,5 @@
 # youtube_video#vid
+# will be adding the .exe version of the application
 by fredysomy<br>
 #<b>DOWNLOAD THE LATEST VERSION OF PYTHON</b>:https://www.python.org/downloads/<br>
 <b>Additional dependencies needed</b>
